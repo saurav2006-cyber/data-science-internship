@@ -7,11 +7,14 @@ This repository contains all the data analysis projects completed during my inte
 
 ## 📁 Weekly Projects
 
-- **[Week 1] Student Performance Analysis:** Exploratory Data Analysis (EDA) on student grades using Pandas, Matplotlib, and Seaborn. 
+- **[Week 1] Student Performance Analysis:** Exploratory Data Analysis (EDA) on student grades.
   - 📂 `Week-1_Student-Analysis/`
 
-- **[Week 2] Titanic Survival Analysis:** Cleaned missing age data and analyzed survival patterns based on gender, passenger class, and age groups.
+- **[Week 2] Titanic Survival Analysis:** Cleaned missing age data and analyzed survival patterns by gender and class.
   - 📂 `Week-2_Titanic-Analysis/`
+
+- **[Week 3] Titanic Mini EDA:** Advanced data cleaning (mean imputation), created age groups, and analyzed survival by port and family size using multiple visualizations.
+  - 📂 `Week-3_Titanic-EDA/`
 
 ## 🛠️ Tech Stack
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
